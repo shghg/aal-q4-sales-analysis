@@ -1,0 +1,37 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (optional if you don't want to upload raw data)
+data/
+*.csv
+*.xlsx
+*.xls
+*.h5
+
+# Ignore virtual environment folders
+venv/
+.env/
+env/
+.venv/
+
+# Ignore OS system files
+.DS_Store
+Thumbs.db
+
+# Ignore matplotlib or seaborn cache
+.matplotlib/
+
+# Ignore VS Code settings (if you use it)
+.vscode/
+
+# Ignore backup files
+*.bak
+*.swp
+*.swo
+
