@@ -49,10 +49,8 @@ The goal was to deliver actionable business insights to support strategic decisi
 aal-q4-sales-analysis/
 ├── data/                 # Raw data files (CSV, optional)
 ├── notebooks/            # Jupyter Notebooks for analysis
-├── plots/                # Generated visualizations
 ├── README.md             # Project overview (this file)
 ├── .gitignore            # Git ignore file
-└── LICENSE (optional)    # Project license (e.g., MIT)
 ```
 
 ---
