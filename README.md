@@ -78,6 +78,4 @@ aal-q4-sales-analysis/
 ## 📬 Contact
 
 - GitHub: [shghg](https://github.com/shghg)
-- LinkedIn: (Add your LinkedIn if you want recruiters to find you faster)
-
 ---
